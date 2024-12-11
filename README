@@ -1,0 +1,32 @@
+Names:
+        Max Regardie (mregar01) and Vir Bhatia (vbhati02)
+
+Architecture:
+        In compress40.c we handle compression and decompression and calling all
+        of our helper functions in the correct order
+
+        in fileHandler.c we have functions that deal with writing to and reading
+        from files
+
+        in cvRGB.c we have functions that do transformations on image spaces
+        with equations
+
+        in chromaDCT.c we have functions that deal with chromatization and
+        discrete cosine transformations of image data
+        
+        in pack.c we have functions that deal with packing and unpacking 
+        keywords
+        
+        in bitpack.c we handle bit arithmetic
+
+Acknowledgements:
+        We recieved help from the TAs
+
+Implementations:
+        All parts of the program are correctly implemented in accordance with 
+        the spec.
+        
+Time Analyzing:
+        7
+Time Solving:
+        35
